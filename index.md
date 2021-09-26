@@ -32,7 +32,7 @@ Student Advocates are part of the Service Learning and Volunteer Center. They su
 Tutors facilitate learning both in and out of the classroom. Subjects vary from History, Science, Math, and English.
 
 * **Instructional Aide - Miracosta College**
-Instructional Aide have the responiability to facilitate learning for high schoolers transitioning into college. As well as, leading sessions with different educational activies that ensure retention of course material covered during lecture.
+Instructional Aide have the responsibility to facilitate learning for high schoolers transitioning into college. As well as, leading sessions with different educational activities that ensure retention of course material covered during lecture.
 
 * **STEMLC Tutor - Miracosta College**
 Tutors lead interactions with their students. They provide experience and slight expertise in a subject such as Calculus, Biology, Computer Science, Physics, Chemistry, and etc. They enable students to work independently given the proper tools/resources and knowledge.
