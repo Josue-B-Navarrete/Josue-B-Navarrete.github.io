@@ -1,12 +1,17 @@
-# Josue B Navarrete 
+
+<h1 align="right">
+ Josue B Navarrete 
+</h1>
+<h5 align="right">
+ (760)-512-5005 | Navar345@csusm.edu 
+</h5>
 
 
-
-### Eduation
+### Education
 ###### Miracosta Community College:       
-> ###### Associates of Liberal Arts in Mathematics and Sciences - Fall 2022
+- Associates of Liberal Arts in Mathematics and Sciences - Fall 2022
 ###### California State University San Marcos:      
-> ###### Bachelor of Science in Computer Science  - Spring 2025		 
+- Bachelor of Science in Computer Science  - Spring 2025		 
 
 ### Research Experience
  ###### Undergraduate Researcher @ California State University San Marcos
